@@ -1,1 +1,14 @@
+branshes.md 
+la branche est la branche de base du repo 
+la brabche hotfix permet l'intégration dans le dev
+la branche feature permet d'amener une nouvelle fonctionnalitée
+git merge permet de corriger les erreurs commis
 
+feature-color
+permet l'ajout des couleurs 
+
+feature-url.md
+un URL
+
+objectif.md
+ce dépôt sert à réaliser mon TP sur le git avancé
